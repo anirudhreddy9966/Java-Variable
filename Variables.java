@@ -7,7 +7,7 @@ public class Variables
    {
     int a;
     int roll_number;
-    int averagenumberofstudents;
+    int averageNumberOfStudents;     //Camel case
 
 
    }
